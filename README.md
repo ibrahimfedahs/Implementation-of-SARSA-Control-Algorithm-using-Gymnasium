@@ -233,13 +233,16 @@ env.close()
 
 ## Output
 Final Q-table:
-              <img width="389" height="326" alt="image" src="https://github.com/user-attachments/assets/506fd4cc-0134-42f3-9bc2-43d3a1d0de52" />
+
+<img width="389" height="326" alt="image" src="https://github.com/user-attachments/assets/506fd4cc-0134-42f3-9bc2-43d3a1d0de52" />
 
 Estimated State-Value Function:
-                               <img width="628" height="80" alt="image" src="https://github.com/user-attachments/assets/dc014527-5798-4260-b254-9c71f60d8366" />
+
+<img width="628" height="80" alt="image" src="https://github.com/user-attachments/assets/dc014527-5798-4260-b254-9c71f60d8366" />
 
 Learned Policy:
-               <img width="514" height="329" alt="image" src="https://github.com/user-attachments/assets/4c6a3ebe-7b91-4b05-b2c9-936c5f23116c" />
+ 
+  <img width="514" height="329" alt="image" src="https://github.com/user-attachments/assets/4c6a3ebe-7b91-4b05-b2c9-936c5f23116c" />
 
 Average reward over last 1000 episodes: 1.0
 
