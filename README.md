@@ -7,12 +7,15 @@ To implement the **SARSA control algorithm** using the Gymnasium `FrozenLake-v1`
 ---
 
 ## Problem Statement
-
+Implement the SARSA reinforcement learning control algorithm for the FrozenLake-v1 environment in Gymnasium. The agent should learn an optimal action-selection policy through repeated interaction with the environment using an epsilon-greedy exploration strategy.
 
 
 ## Software Requirements
 
-
+Python 3.x
+Gymnasium
+NumPy
+Jupyter Notebook / Google Colab / Python IDE
 
 ## Environment Description
 
